@@ -1,0 +1,15 @@
+name: Beaconing
+main: ar.com.jaspa.mc.plugins.beaconing.plugin.BeaconingPlugin
+version: 0
+    
+commands:
+   puto:
+      description: to bardearla
+      usage: /puto
+      permission: everybody
+      permission-message: You don't have ar.com.jaspa.mc.plugins.beaconing.puto
+   putito:
+      description: to bardearla mas mas 
+      usage: /putito
+      permission: ar.com.jaspa.mc.plugins.beaconing.putito
+      permission-message: You don't have ar.com.jaspa.mc.plugins.beaconing.putito
